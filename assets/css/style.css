@@ -1,0 +1,48 @@
+
+
+* {
+    margin: 30px;
+    padding: 5px;
+    border:aqua;
+    box-sizing:border-box
+}
+   
+video {
+    width: 85vw
+} 
+    
+
+img {
+      width: 20vw;
+     position: center;
+    }
+
+img {
+    width: 60vw;
+}
+
+ .contenedor {
+    position: absolute;
+
+}
+#logo {
+    position: absolute;
+    width: 10%;
+    left: 0px;
+    right: 0px; 
+    top: 20px;
+    bottom: 20px;
+    margin: left;
+}
+.slogan {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+position: absolute;
+text-align: center;
+left: 0 ;
+right: 0;
+top: 20%;
+margin: left;
+background-color:blue
+color(srgb rgb(112, 42, 42) rgb(22, 121, 22) blue)
+}
